@@ -4,7 +4,7 @@
 - 현재는 스타트업 포그리트에서 프론트엔드 개발자로 근무하고 있습니다.
 
 ## Latest Posts 📰
-- [2022 개발자회고](https://bysxx.tistory.com/2)
+- [2022 개발자 회고](https://bysxx.tistory.com/2)
 - [실행 컨텍스트란?](https://bysxx.tistory.com/3)
 
 ## Thing I code with
