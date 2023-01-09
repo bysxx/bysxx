@@ -3,10 +3,6 @@
 - 사용자 경험 개선 그리고 SSR, MFA에 관심이 많습니다.
 - 현재는 스타트업 포그리트에서 프론트엔드 개발자로 근무하고 있습니다.
 
-## Latest Posts 📰
-- [2022 개발자 회고](https://bysxx.tistory.com/2)
-- [실행 컨텍스트란?](https://bysxx.tistory.com/3)
-
 ## Thing I code with
 #### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,3 +26,5 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Latest Posts 📰
