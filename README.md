@@ -28,3 +28,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Latest Posts 📰
+
+- [실행 컨텍스트(execution context)란?](https://bysxx.tistory.com/3)
+- [2022 개발자 회고](https://bysxx.tistory.com/2)
