@@ -31,3 +31,4 @@
 
 - [실행 컨텍스트(execution context)란?](https://bysxx.tistory.com/3)
 - [2022 개발자 회고](https://bysxx.tistory.com/2)
+- [Nuxt3이란?](https://bysxx.tistory.com/4)
