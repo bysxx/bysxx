@@ -4,12 +4,11 @@ with open("README.md", "r", encoding='utf-8') as f:
 rss = feedparser.parse("http://bysxx.tistory.com/rss" )
 
 post = ""
+check = f"## Latest Posts 📰"
+content = content.split(check)[0]
 for i, feed in reversed(list(enumerate(rss['entries']))): 
     date = feed['published_parsed'] 
-    check = f"- [{feed['title']}]({feed['link']})"
-    if(content.find(check)) == -1:
-        post = f"\n- [{feed['title']}]({feed['link']})" + post
-print('post:', post)
-text = f"{content}{post}" 
+    post = f"\n- [{feed['title']}]({feed['link']})" + post
+text = f"{content}{check}{post}" 
 with open("README.md", 'w', encoding='utf-8') as f:
     f.write(text)
