@@ -1,7 +1,7 @@
 ## About Me 👋
 - React(Next.js), Vue(Nuxt.js), TypeScript 위주로 프론트엔드 개발을 하고 있는 백윤성입니다 :)
-- 사용자 경험 개선 그리고 SSR, MFA에 관심이 많습니다.
-- 현재는 스타트업 포그리트에서 프론트엔드 개발자로 근무하고 있습니다.
+- 사용자 경험 개선과 SSR에 관심이 많습니다.
+- MFA와 같은 개발자 경험 개선에도 관심이 많습니다.
 
 ## Thing I code with
 #### Languages
