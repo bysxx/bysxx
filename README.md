@@ -28,6 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Latest Posts 📰
+- [HTTPS란?](https://bysxx.tistory.com/8)
 - [HTTP란?](https://bysxx.tistory.com/7)
 - [1월 회고](https://bysxx.tistory.com/6)
 - [호이스팅이란?](https://bysxx.tistory.com/5)
