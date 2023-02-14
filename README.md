@@ -28,6 +28,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Latest Posts 📰
+- [리액트 패턴 소개 (Compound Components Pattern)](https://bysxx.tistory.com/10)
+- [운이 좋은 사람](https://bysxx.tistory.com/9)
 - [HTTPS란?](https://bysxx.tistory.com/8)
 - [HTTP란?](https://bysxx.tistory.com/7)
 - [1월 회고](https://bysxx.tistory.com/6)
