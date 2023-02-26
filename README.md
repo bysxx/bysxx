@@ -28,6 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Latest Posts 📰
+- [2월 회고](https://bysxx.tistory.com/14)
 - [Nuxt에서 뒤로가기 시 bfcache를 사용하지 않고 리렌더링, 리페인팅되는 이슈](https://bysxx.tistory.com/13)
 - [Interface와 Type의 차이 (TypeScript)](https://bysxx.tistory.com/12)
 - [Vue Life Cycle(생명 주기)](https://bysxx.tistory.com/11)
@@ -37,4 +38,3 @@
 - [HTTP란?](https://bysxx.tistory.com/7)
 - [1월 회고](https://bysxx.tistory.com/6)
 - [호이스팅이란?](https://bysxx.tistory.com/5)
-- [Nuxt3이란?](https://bysxx.tistory.com/4)
