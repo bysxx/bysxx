@@ -28,6 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Latest Posts 📰
+- [React-Query 맛있게 사용하는 법 with useQuery](https://bysxx.tistory.com/16)
 - [Tailwind CSS vs Styled-components 비교](https://bysxx.tistory.com/15)
 - [2월 회고](https://bysxx.tistory.com/14)
 - [Nuxt에서 뒤로가기 시 bfcache를 사용하지 않고 리렌더링, 리페인팅되는 이슈](https://bysxx.tistory.com/13)
@@ -37,4 +38,3 @@
 - [운이 좋은 사람](https://bysxx.tistory.com/9)
 - [HTTPS란?](https://bysxx.tistory.com/8)
 - [HTTP란?](https://bysxx.tistory.com/7)
-- [1월 회고](https://bysxx.tistory.com/6)
