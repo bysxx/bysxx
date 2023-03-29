@@ -3,6 +3,8 @@
 - 사용자 경험 개선과 SSR에 관심이 많습니다.
 - MFA와 같은 개발자 경험 개선에도 관심이 많습니다.
 
+<img width="600px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bysxx"/>
+
 ## Thing I code with
 #### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
