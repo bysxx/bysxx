@@ -1,7 +1,7 @@
 ## About Me 👋
 - React(Next.js), Vue(Nuxt.js), TypeScript 위주로 프론트엔드 개발을 하고 있는 백윤성입니다 :)
 - 사용자 경험 개선과 SSR에 관심이 많습니다.
-- MFA와 같은 개발자 경험 개선에도 관심이 많습니다.
+- CI/CD, MFA와 같은 개발자 경험 개선에도 관심이 많습니다.
 
 <img width="600px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bysxx"/>
 
