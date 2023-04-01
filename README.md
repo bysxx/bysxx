@@ -3,7 +3,8 @@
 - 사용자 경험 개선과 SSR에 관심이 많습니다.
 - CI/CD, MFA와 같은 개발자 경험 개선에도 관심이 많습니다.
 
-<img width="600px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bysxx"/>
+<img width="600px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bysxx&badges=3"/>
+
 
 ## Latest Posts 📰
 - [3월 회고](https://bysxx.tistory.com/17)
