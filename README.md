@@ -7,6 +7,7 @@
 
 
 ## Latest Posts 📰
+- [Next13 + TypeScript Template 공유](https://bysxx.tistory.com/19)
 - [Next13을 알아보자 - 1 (Nested Layout, Server Components)](https://bysxx.tistory.com/18)
 - [3월 회고](https://bysxx.tistory.com/17)
 - [React-Query 맛있게 사용하는 법 with useQuery](https://bysxx.tistory.com/16)
@@ -16,4 +17,3 @@
 - [Interface와 Type의 차이 (TypeScript)](https://bysxx.tistory.com/12)
 - [Vue Life Cycle(생명 주기)](https://bysxx.tistory.com/11)
 - [리액트 패턴 소개 (Compound Components Pattern)](https://bysxx.tistory.com/10)
-- [운이 좋은 사람](https://bysxx.tistory.com/9)
