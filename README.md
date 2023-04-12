@@ -7,7 +7,7 @@
 
 
 ## Latest Posts 📰
-- [Next13 + TypeScript Template 공유](https://bysxx.tistory.com/19)
+- [Next13 + TypeScript Template 공유 (Next13 쉽게 시작하는법)](https://bysxx.tistory.com/19)
 - [Next13을 알아보자 - 1 (Nested Layout, Server Components)](https://bysxx.tistory.com/18)
 - [3월 회고](https://bysxx.tistory.com/17)
 - [React-Query 맛있게 사용하는 법 with useQuery](https://bysxx.tistory.com/16)
