@@ -7,6 +7,7 @@
 
 
 ## Latest Posts 📰
+- [Next 13.4 - App Router 안정화 버전 출시 with Turbopack, Server Actions](https://bysxx.tistory.com/23)
 - [Vercel Postgres - Frontend를 위한 Serverless SQL Database](https://bysxx.tistory.com/22)
 - [4월 회고](https://bysxx.tistory.com/21)
 - [Next13을 알아보자 - 2 (Streaming)](https://bysxx.tistory.com/20)
@@ -16,4 +17,3 @@
 - [React-Query 맛있게 사용하는 법 with useQuery](https://bysxx.tistory.com/16)
 - [Tailwind CSS vs Styled-components 비교](https://bysxx.tistory.com/15)
 - [2월 회고](https://bysxx.tistory.com/14)
-- [Nuxt에서 뒤로가기 시 bfcache를 사용하지 않고 리렌더링, 리페인팅되는 이슈](https://bysxx.tistory.com/13)
