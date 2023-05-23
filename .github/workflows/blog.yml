@@ -33,11 +33,15 @@ jobs:
     - name: Run Update Python
       run: |
         python tistory.py
-    - name: Update README.md
-      run: |
-        git pull
-        git add .
-        git config --local user.email "0415white@gmail.com"
-        git config --local user.name "bysxx"
-        git commit -m "Update README.md"
-        git push
+        git_status=$(git status --porcelain)
+        if [ -n "$git_status" ]; then
+          git pull
+          git add .
+          git config --local user.email "0415white@gmail.com"
+          git config --local user.name "bysxx"
+          git commit -m "Update README.md"
+          git push
+        else
+          echo "No changes in files. Skipping git commands."
+        fi
+
