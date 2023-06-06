@@ -4,7 +4,7 @@ with open("README.md", "r", encoding='utf-8') as f:
 rss = feedparser.parse("http://bysxx.tistory.com/rss" )
 
 post = ""
-check = f"## Latest Posts 📰"
+check = f"### Latest Posts 📰"
 content = content.split(check)[0]
 for i, feed in reversed(list(enumerate(rss['entries']))): 
     date = feed['published_parsed'] 
