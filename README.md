@@ -1,12 +1,11 @@
-## About Me 👋
-- React(Next.js), Vue(Nuxt.js), TypeScript 위주로 프론트엔드 개발을 하고 있는 백윤성입니다 :)
+### About Me 👋
+- 저는 프론트엔드 중심으로 개발하는 소프트웨어 엔지니어 백윤성입니다.
+- Next.js, TypeScript를 주로 사용하여 웹 애플리케이션을 개발하고 있습니다.
 - 사용자 경험 개선과 SSR에 관심이 많습니다.
-- CI/CD, MFA와 같은 개발자 경험 개선에도 관심이 많습니다.
 
-<img width="600px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bysxx&_r=1234"/>
+---
 
-
-## Latest Posts 📰
+### Latest Posts 📰
 - [5월 회고](https://bysxx.tistory.com/24)
 - [Next 13.4 - App Router 안정화 버전 출시 with Turbopack, Server Actions](https://bysxx.tistory.com/23)
 - [Vercel Postgres - Frontend를 위한 Serverless SQL Database](https://bysxx.tistory.com/22)
