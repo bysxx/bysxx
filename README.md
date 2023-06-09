@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [마르코프 체인(Markov Chain)으로 문자열을 예측해보자](https://bysxx.tistory.com/25)
 - [5월 회고](https://bysxx.tistory.com/24)
 - [Next 13.4 - App Router 안정화 버전 출시 with Turbopack, Server Actions](https://bysxx.tistory.com/23)
 - [Vercel Postgres - Frontend를 위한 Serverless SQL Database](https://bysxx.tistory.com/22)
@@ -15,4 +16,3 @@
 - [Next13을 알아보자 - 1 (Nested Layout, Server Components)](https://bysxx.tistory.com/18)
 - [3월 회고](https://bysxx.tistory.com/17)
 - [React-Query 맛있게 사용하는 법 with useQuery](https://bysxx.tistory.com/16)
-- [Tailwind CSS vs Styled-components 비교](https://bysxx.tistory.com/15)
