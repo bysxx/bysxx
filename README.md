@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [6월 회고](https://bysxx.tistory.com/27)
 - [기술 면접 단골 질문 부수기 - 1 | google.com을 브라우저에 입력했을 때 벌어지는 일 (1)](https://bysxx.tistory.com/26)
 - [마르코프 체인(Markov Chain)으로 문자열을 예측해보자](https://bysxx.tistory.com/25)
 - [5월 회고](https://bysxx.tistory.com/24)
@@ -15,4 +16,3 @@
 - [Next13을 알아보자 - 2 (Streaming)](https://bysxx.tistory.com/20)
 - [Next13 + TypeScript Template 공유 (Next13 쉽게 시작하는법)](https://bysxx.tistory.com/19)
 - [Next13을 알아보자 - 1 (Nested Layout, Server Components)](https://bysxx.tistory.com/18)
-- [3월 회고](https://bysxx.tistory.com/17)
