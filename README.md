@@ -7,7 +7,7 @@
 
 ### Latest Posts 📰
 - [6월 회고](https://bysxx.tistory.com/27)
-- [기술 면접 단골 질문 부수기 - 1 | google.com을 브라우저에 입력했을 때 벌어지는 일 (1)](https://bysxx.tistory.com/26)
+- [기술 면접 단골 질문 부수기 - 1 | google.com을 브라우저에 입력했을 때 벌어지는 일 (DHCP, DNS)](https://bysxx.tistory.com/26)
 - [마르코프 체인(Markov Chain)으로 문자열을 예측해보자](https://bysxx.tistory.com/25)
 - [5월 회고](https://bysxx.tistory.com/24)
 - [Next 13.4 - App Router 안정화 버전 출시 with Turbopack, Server Actions](https://bysxx.tistory.com/23)
