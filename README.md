@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [자세한 예시로 알아보는 REST API의 설계 방법](https://bysxx.tistory.com/31)
 - [typestack에 대해 알아보자 - typedi](https://bysxx.tistory.com/30)
 - [7월 회고](https://bysxx.tistory.com/29)
 - [2달간의 개발자 프리랜서 업무를 마치며](https://bysxx.tistory.com/28)
@@ -15,4 +16,3 @@
 - [5월 회고](https://bysxx.tistory.com/24)
 - [Next 13.4 - App Router 안정화 버전 출시 with Turbopack, Server Actions](https://bysxx.tistory.com/23)
 - [Vercel Postgres - Frontend를 위한 Serverless SQL Database](https://bysxx.tistory.com/22)
-- [4월 회고](https://bysxx.tistory.com/21)
