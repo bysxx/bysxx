@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [리액트 패턴 | Compound Components Pattern](https://bysxx.tistory.com/32)
 - [자세한 예시로 알아보는 REST API의 설계 방법](https://bysxx.tistory.com/31)
 - [typestack에 대해 알아보자 - typedi](https://bysxx.tistory.com/30)
 - [7월 회고](https://bysxx.tistory.com/29)
@@ -15,4 +16,3 @@
 - [마르코프 체인(Markov Chain)으로 문자열을 예측해보자](https://bysxx.tistory.com/25)
 - [5월 회고](https://bysxx.tistory.com/24)
 - [Next 13.4 - App Router 안정화 버전 출시 with Turbopack, Server Actions](https://bysxx.tistory.com/23)
-- [Vercel Postgres - Frontend를 위한 Serverless SQL Database](https://bysxx.tistory.com/22)
