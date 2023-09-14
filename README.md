@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [MongoDB.local Seoul 2023을 다녀오다](https://bysxx.tistory.com/34)
 - [8월 회고](https://bysxx.tistory.com/33)
 - [리액트 패턴 | Compound Components Pattern](https://bysxx.tistory.com/32)
 - [자세한 예시로 알아보는 REST API의 설계 방법](https://bysxx.tistory.com/31)
@@ -15,4 +16,3 @@
 - [6월 회고](https://bysxx.tistory.com/27)
 - [google.com을 브라우저에 입력했을 때 벌어지는 일 (DHCP, DNS)](https://bysxx.tistory.com/26)
 - [마르코프 체인(Markov Chain)으로 문자열을 예측해보자](https://bysxx.tistory.com/25)
-- [5월 회고](https://bysxx.tistory.com/24)
