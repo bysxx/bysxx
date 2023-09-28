@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [개발자가 알아야할 UX 지식](https://bysxx.tistory.com/35)
 - [MongoDB.local Seoul 2023을 다녀오다](https://bysxx.tistory.com/34)
 - [8월 회고](https://bysxx.tistory.com/33)
 - [리액트 패턴 | Compound Components Pattern](https://bysxx.tistory.com/32)
@@ -15,4 +16,3 @@
 - [2달간의 개발자 프리랜서 업무를 마치며](https://bysxx.tistory.com/28)
 - [6월 회고](https://bysxx.tistory.com/27)
 - [google.com을 브라우저에 입력했을 때 벌어지는 일 (DHCP, DNS)](https://bysxx.tistory.com/26)
-- [마르코프 체인(Markov Chain)으로 문자열을 예측해보자](https://bysxx.tistory.com/25)
