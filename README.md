@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [9월 회고](https://bysxx.tistory.com/36)
 - [개발자가 알아야할 UX 지식](https://bysxx.tistory.com/35)
 - [MongoDB.local Seoul 2023을 다녀오다](https://bysxx.tistory.com/34)
 - [8월 회고](https://bysxx.tistory.com/33)
@@ -15,4 +16,3 @@
 - [7월 회고](https://bysxx.tistory.com/29)
 - [2달간의 개발자 프리랜서 업무를 마치며](https://bysxx.tistory.com/28)
 - [6월 회고](https://bysxx.tistory.com/27)
-- [google.com을 브라우저에 입력했을 때 벌어지는 일 (DHCP, DNS)](https://bysxx.tistory.com/26)
