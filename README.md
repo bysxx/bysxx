@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [컴포넌트 구조 설계 in Next.js 13](https://bysxx.tistory.com/38)
 - [Next.js 13.5](https://bysxx.tistory.com/37)
 - [9월 회고](https://bysxx.tistory.com/36)
 - [개발자가 알아야할 UX 지식](https://bysxx.tistory.com/35)
@@ -15,4 +16,3 @@
 - [자세한 예시로 알아보는 REST API의 설계 방법](https://bysxx.tistory.com/31)
 - [typestack에 대해 알아보자 - typedi](https://bysxx.tistory.com/30)
 - [7월 회고](https://bysxx.tistory.com/29)
-- [2달간의 개발자 프리랜서 업무를 마치며](https://bysxx.tistory.com/28)
