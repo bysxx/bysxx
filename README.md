@@ -6,6 +6,8 @@
 ---
 
 ### Latest Posts 📰
+- [Next.js 14 출시](https://bysxx.tistory.com/40)
+- [10월 회고](https://bysxx.tistory.com/39)
 - [컴포넌트 구조 설계 in Next.js 13](https://bysxx.tistory.com/38)
 - [Next.js 13.5](https://bysxx.tistory.com/37)
 - [9월 회고](https://bysxx.tistory.com/36)
@@ -14,5 +16,3 @@
 - [8월 회고](https://bysxx.tistory.com/33)
 - [리액트 패턴 | Compound Components Pattern](https://bysxx.tistory.com/32)
 - [자세한 예시로 알아보는 REST API의 설계 방법](https://bysxx.tistory.com/31)
-- [typestack에 대해 알아보자 - typedi](https://bysxx.tistory.com/30)
-- [7월 회고](https://bysxx.tistory.com/29)
