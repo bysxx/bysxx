@@ -8,7 +8,7 @@
 ### Latest Posts 📰
 - [Next.js 14 출시](https://bysxx.tistory.com/40)
 - [10월 회고](https://bysxx.tistory.com/39)
-- [컴포넌트 구조 설계 in Next.js 13](https://bysxx.tistory.com/38)
+- [Server Components 활용하는 방법](https://bysxx.tistory.com/38)
 - [Next.js 13.5](https://bysxx.tistory.com/37)
 - [9월 회고](https://bysxx.tistory.com/36)
 - [개발자가 알아야할 UX 지식](https://bysxx.tistory.com/35)
