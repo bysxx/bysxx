@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [React Query v5 with Next.js](https://bysxx.tistory.com/41)
 - [Next.js 14 출시](https://bysxx.tistory.com/40)
 - [10월 회고](https://bysxx.tistory.com/39)
 - [Server Components 활용하는 방법](https://bysxx.tistory.com/38)
@@ -15,4 +16,3 @@
 - [MongoDB.local Seoul 2023을 다녀오다](https://bysxx.tistory.com/34)
 - [8월 회고](https://bysxx.tistory.com/33)
 - [리액트 패턴 | Compound Components Pattern](https://bysxx.tistory.com/32)
-- [자세한 예시로 알아보는 REST API의 설계 방법](https://bysxx.tistory.com/31)
