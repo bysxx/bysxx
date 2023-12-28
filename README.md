@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [배민도 React Native 해요? - 우아콘 2023](https://bysxx.tistory.com/44)
 - [localhost를 벗어나자](https://bysxx.tistory.com/43)
 - [11월 회고](https://bysxx.tistory.com/42)
 - [React Query v5 with Next.js](https://bysxx.tistory.com/41)
@@ -15,4 +16,3 @@
 - [Next.js 13.5](https://bysxx.tistory.com/37)
 - [9월 회고](https://bysxx.tistory.com/36)
 - [개발자가 알아야할 UX 지식](https://bysxx.tistory.com/35)
-- [MongoDB.local Seoul 2023을 다녀오다](https://bysxx.tistory.com/34)
