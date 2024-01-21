@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [2024 프론트엔드 트렌드](https://bysxx.tistory.com/46)
 - [2023 개발자 회고](https://bysxx.tistory.com/45)
 - [배민도 React Native 해요? - 우아콘 2023](https://bysxx.tistory.com/44)
 - [localhost를 벗어나자](https://bysxx.tistory.com/43)
@@ -15,4 +16,3 @@
 - [10월 회고](https://bysxx.tistory.com/39)
 - [Server Components 활용하는 방법](https://bysxx.tistory.com/38)
 - [Next.js 13.5](https://bysxx.tistory.com/37)
-- [9월 회고](https://bysxx.tistory.com/36)
