@@ -1,7 +1,7 @@
 ### About Me 👋
 - 저는 프론트엔드 중심의 소프트웨어 엔지니어 백윤성입니다.
-- Next.js, TypeScript를 주로 사용하여 웹 애플리케이션을 설계 및 개발하고 있습니다.
-- 사용자 경험 개선과 SSR에 관심이 많습니다.
+- Next.js 13+, TypeScript를 주로 사용하여 웹 애플리케이션을 설계 및 개발하고 있습니다.
+- Server Components, Suspense와 같은 SSR 기술에 관심이 많습니다.
 
 ---
 
