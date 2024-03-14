@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [프론트엔드 출신의 CTO는 왜 없을까](https://bysxx.tistory.com/50)
 - [레거시 코드는 회사가 살아남았다는 증거다](https://bysxx.tistory.com/49)
 - [React의 Virtual DOM은 어디에 저장될까?](https://bysxx.tistory.com/48)
 - [React 19가 다가온다](https://bysxx.tistory.com/47)
@@ -15,4 +16,3 @@
 - [localhost를 벗어나자](https://bysxx.tistory.com/43)
 - [11월 회고](https://bysxx.tistory.com/42)
 - [React Query v5 with Next.js](https://bysxx.tistory.com/41)
-- [Next.js 14 소개](https://bysxx.tistory.com/40)
