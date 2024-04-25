@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [Waku | 가장 작은 리액트(SSR) 프레임워크](http://bysxx.tistory.com/52)
 - [2024년 1분기 회고](http://bysxx.tistory.com/51)
 - [프론트엔드 출신의 CTO는 왜 없을까](http://bysxx.tistory.com/50)
 - [레거시 코드는 회사가 살아남았다는 증거다](http://bysxx.tistory.com/49)
@@ -15,4 +16,3 @@
 - [2023 개발자 회고](http://bysxx.tistory.com/45)
 - [배민도 React Native 해요? - 우아콘 2023](http://bysxx.tistory.com/44)
 - [localhost를 벗어나자](http://bysxx.tistory.com/43)
-- [11월 회고](http://bysxx.tistory.com/42)
