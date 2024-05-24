@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [Next.js 15 RC 발표](http://bysxx.tistory.com/54)
 - [next.js 14.1 SSRF 취약점 노출](http://bysxx.tistory.com/53)
 - [Waku | 가장 작은 리액트(SSR) 프레임워크](http://bysxx.tistory.com/52)
 - [2024년 1분기 회고](http://bysxx.tistory.com/51)
@@ -15,4 +16,3 @@
 - [React 19가 다가온다](http://bysxx.tistory.com/47)
 - [2024 프론트엔드 트렌드](http://bysxx.tistory.com/46)
 - [2023 개발자 회고](http://bysxx.tistory.com/45)
-- [배민도 React Native 해요? - 우아콘 2023](http://bysxx.tistory.com/44)
