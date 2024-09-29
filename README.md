@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [2024년 3분기 개발자 회고](http://bysxx.tistory.com/57)
 - [2024년 2분기 개발자 회고](http://bysxx.tistory.com/56)
 - [무신사의 PC 화면 포기의 의미](http://bysxx.tistory.com/55)
 - [Next.js 15 RC 발표](http://bysxx.tistory.com/54)
@@ -15,4 +16,3 @@
 - [프론트엔드 출신의 CTO는 왜 없을까](http://bysxx.tistory.com/50)
 - [레거시 코드는 회사가 살아남았다는 증거다](http://bysxx.tistory.com/49)
 - [React의 Virtual DOM은 어디에 저장될까?](http://bysxx.tistory.com/48)
-- [React 19가 다가온다](http://bysxx.tistory.com/47)
