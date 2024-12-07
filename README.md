@@ -6,13 +6,13 @@
 ---
 
 ### Latest Posts 📰
-- [Tailwind CSS v4 공개](http://bysxx.tistory.com/60)
-- [조언을 들을 결심](http://bysxx.tistory.com/59)
-- [당근 테크 밋업 2024 후기](http://bysxx.tistory.com/58)
-- [2024년 3분기 개발자 회고](http://bysxx.tistory.com/57)
-- [2024년 2분기 개발자 회고](http://bysxx.tistory.com/56)
-- [무신사의 PC 화면 포기의 의미](http://bysxx.tistory.com/55)
-- [Next.js 15 RC 발표](http://bysxx.tistory.com/54)
-- [next.js 14.1 SSRF 취약점 노출](http://bysxx.tistory.com/53)
-- [Waku | 가장 작은 리액트(SSR) 프레임워크](http://bysxx.tistory.com/52)
-- [2024년 1분기 개발자 회고](http://bysxx.tistory.com/51)
+- [Tailwind CSS v4 공개](https://bysxx.tistory.com/60)
+- [조언을 들을 결심](https://bysxx.tistory.com/59)
+- [당근 테크 밋업 2024 후기](https://bysxx.tistory.com/58)
+- [2024년 3분기 개발자 회고](https://bysxx.tistory.com/57)
+- [2024년 2분기 개발자 회고](https://bysxx.tistory.com/56)
+- [무신사의 PC 화면 포기의 의미](https://bysxx.tistory.com/55)
+- [Next.js 15 RC 발표](https://bysxx.tistory.com/54)
+- [next.js 14.1 SSRF 취약점 노출](https://bysxx.tistory.com/53)
+- [Waku | 가장 작은 리액트(SSR) 프레임워크](https://bysxx.tistory.com/52)
+- [2024년 1분기 개발자 회고](https://bysxx.tistory.com/51)
