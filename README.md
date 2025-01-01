@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [2024 개발자 회고](http://bysxx.tistory.com/61)
 - [Tailwind CSS v4 공개](http://bysxx.tistory.com/60)
 - [조언을 들을 결심](http://bysxx.tistory.com/59)
 - [당근 테크 밋업 2024 후기](http://bysxx.tistory.com/58)
@@ -15,4 +16,3 @@
 - [Next.js 15 RC 발표](http://bysxx.tistory.com/54)
 - [next.js 14.1 SSRF 취약점 노출](http://bysxx.tistory.com/53)
 - [Waku | 가장 작은 리액트(SSR) 프레임워크](http://bysxx.tistory.com/52)
-- [2024년 1분기 개발자 회고](http://bysxx.tistory.com/51)
