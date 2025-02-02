@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [프론트엔드 E2E 테스트 도입기 - Playwright를 선택한 이유](http://bysxx.tistory.com/62)
 - [2024 개발자 회고](http://bysxx.tistory.com/61)
 - [Tailwind CSS v4 공개](http://bysxx.tistory.com/60)
 - [조언을 들을 결심](http://bysxx.tistory.com/59)
@@ -15,4 +16,3 @@
 - [무신사의 PC 화면 포기의 의미](http://bysxx.tistory.com/55)
 - [Next.js 15 RC 발표](http://bysxx.tistory.com/54)
 - [next.js 14.1 SSRF 취약점 노출](http://bysxx.tistory.com/53)
-- [Waku | 가장 작은 리액트(SSR) 프레임워크](http://bysxx.tistory.com/52)
