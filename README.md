@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [A급 인재는 A급 인재만 뽑고, B급 인재는 C급 인재를 뽑는다.](http://bysxx.tistory.com/64)
 - [개인 프로젝트 시작 (KBO팬들을 위한 플랫폼)](http://bysxx.tistory.com/63)
 - [프론트엔드 E2E 테스트 도입기 - Playwright를 선택한 이유](http://bysxx.tistory.com/62)
 - [2024 개발자 회고](http://bysxx.tistory.com/61)
@@ -15,4 +16,3 @@
 - [2024년 3분기 개발자 회고](http://bysxx.tistory.com/57)
 - [2024년 2분기 개발자 회고](http://bysxx.tistory.com/56)
 - [무신사의 PC 화면 포기의 의미](http://bysxx.tistory.com/55)
-- [Next.js 15 RC 발표](http://bysxx.tistory.com/54)
