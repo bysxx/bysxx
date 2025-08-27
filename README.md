@@ -6,6 +6,7 @@
 ---
 
 ### Latest Posts 📰
+- [Next.js 15.5 출시 with Next.js 16 예고](http://bysxx.tistory.com/66)
 - [피자로 TypeScript의 반공변성 이해해보기](http://bysxx.tistory.com/65)
 - [A급 인재는 A급 인재만 뽑고, B급 인재는 C급 인재를 뽑는다.](http://bysxx.tistory.com/64)
 - [개인 프로젝트 시작 (KBO팬들을 위한 플랫폼)](http://bysxx.tistory.com/63)
@@ -15,4 +16,3 @@
 - [조언을 들을 결심](http://bysxx.tistory.com/59)
 - [당근 테크 밋업 2024 후기](http://bysxx.tistory.com/58)
 - [2024년 3분기 개발자 회고](http://bysxx.tistory.com/57)
-- [2024년 2분기 개발자 회고](http://bysxx.tistory.com/56)
